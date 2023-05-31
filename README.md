@@ -1,6 +1,4 @@
-Hi! I'm Harry. 
-
- College Student.
+Hi! I'm Harry. a College Student at Miami Dade College .
 
 
 
